@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ElevatedButtonTheme {
-  TElevatedButtonTheme._(); // To avoid creating instances
+  ElevatedButtonTheme._(); // To avoid creating instances
 
   /// -- Light Theme
   static final lightElevatedButtonTheme = ElevatedButtonThemeData(

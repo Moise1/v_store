@@ -14,8 +14,27 @@ dependencies:
   flutter:
     sdk: flutter
 
-  
+  # Utility packages
+  intl: ^0.20.2
+  logger: ^2.5.0
+  lottie: ^3.3.1
+  badges: ^3.1.2
+  shimmer: ^3.0.0
+  readmore: ^3.0.0
+  image_picker: ^1.1.2
+  url_launcher: ^6.3.1
+  carousel_slider: ^5.0.0
+  connectivity_plus: ^6.1.1
+  country_code_picker: ^3.3.0
+  flutter_native_splash: ^2.4.6
+
+  # Icons
+  iconsax: ^0.0.8
   cupertino_icons: ^1.0.8
+
+  # State Management
+  get: ^4.7.2
+  get_storage: ^2.1.1
 
 dev_dependencies:
   flutter_test:

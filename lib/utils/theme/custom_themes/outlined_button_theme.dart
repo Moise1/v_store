@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 /* -- Light & Dark Outlined Button Themes -- */
 class OutlinedButtonTheme {
-  ToutlinedButtonTheme._(); //To avoid creating instances
+  OutlinedButtonTheme._(); //To avoid creating instances
 
   /* -- Light Theme -- */
   static final lightOutlinedButtonTheme = OutlinedButtonThemeData(
