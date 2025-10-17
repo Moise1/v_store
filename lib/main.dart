@@ -3,8 +3,6 @@ import 'package:v_store/utils/theme/theme.dart';
 import 'package:v_store/app.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const App());
 }
-
-
 

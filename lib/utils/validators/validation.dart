@@ -3,7 +3,7 @@ import 'package:intl/intl.dart';
 import '../constants/text_strings.dart';
 
 /// VALIDATION CLASS
-class Validator {
+class TValidator {
   /// Empty Text Validation
   static String? validateEmptyText(String? fieldName, String? value) {
     if (value == null || value.isEmpty) {
